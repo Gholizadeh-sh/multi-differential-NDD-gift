@@ -1,0 +1,51 @@
+Generating r4_A_1, seed 0, N=2048
+{"epoch": 1, "train_loss": 0.6745733171181503}
+{"epoch": 2, "train_loss": 0.6075834665611252}
+{"out": "../analysis/delivery_smoke/r4_A_1/seed_0", "accuracy": 0.7658536585365854, "roc_auc": 0.8926456279876476}
+Generating r6_1_A, seed 0, N=2048
+{"epoch": 1, "train_loss": 0.6944534567711824}
+{"epoch": 2, "train_loss": 0.684445085179448}
+{"out": "../analysis/delivery_smoke/r6_1_A/seed_0", "accuracy": 0.5170731707317073, "roc_auc": 0.5117602267439402}
+Generating r7_1_A, seed 0, N=2048
+{"epoch": 1, "train_loss": 0.6937577135481372}
+{"epoch": 2, "train_loss": 0.6829333853155936}
+{"out": "../analysis/delivery_smoke/r7_1_A/seed_0", "accuracy": 0.44552845528455287, "roc_auc": 0.4293381699733491}
+Generating r8_1_A, seed 0, N=2048
+{"epoch": 1, "train_loss": 0.6951294528048769}
+{"epoch": 2, "train_loss": 0.6878258893727757}
+{"out": "../analysis/delivery_smoke/r8_1_A/seed_0", "accuracy": 0.5170731707317073, "roc_auc": 0.514160920512712}
+Generating r6_AAAA_F0F0, seed 0, N=2048
+{"epoch": 1, "train_loss": 0.6943751137654264}
+{"epoch": 2, "train_loss": 0.6854740864982658}
+{"out": "../analysis/delivery_smoke/r6_AAAA_F0F0/seed_0", "accuracy": 0.47479674796747967, "roc_auc": 0.47366639874783195}
+Generating r6_0101_FFFF, seed 0, N=2048
+{"epoch": 1, "train_loss": 0.6958887443539153}
+{"epoch": 2, "train_loss": 0.6876287656236344}
+{"out": "../analysis/delivery_smoke/r6_0101_FFFF/seed_0", "accuracy": 0.4715447154471545, "roc_auc": 0.4683467997800245}
+Generating r6_weak4, seed 0, N=2048
+{"epoch": 1, "train_loss": 0.697036607816181}
+{"epoch": 2, "train_loss": 0.6866760323784689}
+{"out": "../analysis/delivery_smoke/r6_weak4/seed_0", "accuracy": 0.4845528455284553, "roc_auc": 0.4782033926985067}
+Generating r6_mixed4, seed 0, N=2048
+{"epoch": 1, "train_loss": 0.6966737035430568}
+{"epoch": 2, "train_loss": 0.68683493807028}
+{"out": "../analysis/delivery_smoke/r6_mixed4/seed_0", "accuracy": 0.4991869918699187, "roc_auc": 0.47273573332205254}
+Generating r6_single_1, seed 0, N=2048
+{"epoch": 1, "train_loss": 0.6954647686543035}
+{"epoch": 2, "train_loss": 0.6894490510870008}
+{"out": "../analysis/delivery_smoke/r6_single_1/seed_0", "accuracy": 0.526829268292683, "roc_auc": 0.5360156944033165}
+Generating r6_single_A, seed 0, N=2048
+{"epoch": 1, "train_loss": 0.6944513656172981}
+{"epoch": 2, "train_loss": 0.6874916762716689}
+{"out": "../analysis/delivery_smoke/r6_single_A/seed_0", "accuracy": 0.5170731707317073, "roc_auc": 0.521542789458099}
+Generating r28_1_A, seed 0, N=2048
+{"epoch": 1, "train_loss": 0.6949367101011124}
+{"epoch": 2, "train_loss": 0.6867195868608591}
+{"out": "../analysis/delivery_smoke/r28_1_A/seed_0", "accuracy": 0.4959349593495935, "roc_auc": 0.4943525529844748}
+Completed. See ../analysis/delivery_smoke/summary.csv and ../analysis/delivery_smoke/results_table.tex
+
+..........
+----------------------------------------------------------------------
+Ran 10 tests in 0.368s
+
+OK

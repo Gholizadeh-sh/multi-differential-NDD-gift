@@ -1,0 +1,98 @@
+[
+  {
+    "configuration": "r4_A_1",
+    "paper_table": "III",
+    "rounds": 4,
+    "deltas_hex": "000000000000000a;0000000000000001",
+    "n_total": 1048576,
+    "repeats": 1,
+    "accuracy_mean": 0.9887116821850572,
+    "accuracy_sample_std": null,
+    "auc_mean": 0.9992042196848624,
+    "auc_sample_std": null
+  },
+  {
+    "configuration": "r6_1_A",
+    "paper_table": "IV,V",
+    "rounds": 6,
+    "deltas_hex": "0000000000000001;000000000000000a",
+    "n_total": 1048576,
+    "repeats": 1,
+    "accuracy_mean": 0.5588114682442549,
+    "accuracy_sample_std": null,
+    "auc_mean": 0.5815202266439871,
+    "auc_sample_std": null
+  },
+  {
+    "configuration": "r7_1_A",
+    "paper_table": "IV",
+    "rounds": 7,
+    "deltas_hex": "0000000000000001;000000000000000a",
+    "n_total": 1048576,
+    "repeats": 1,
+    "accuracy_mean": 0.49993483229647806,
+    "accuracy_sample_std": null,
+    "auc_mean": 0.4992151283323433,
+    "auc_sample_std": null
+  },
+  {
+    "configuration": "r8_1_A",
+    "paper_table": "IV",
+    "rounds": 8,
+    "deltas_hex": "0000000000000001;000000000000000a",
+    "n_total": 1048576,
+    "repeats": 1,
+    "accuracy_mean": 0.49999841054381655,
+    "accuracy_sample_std": null,
+    "auc_mean": 0.5,
+    "auc_sample_std": null
+  },
+  {
+    "configuration": "r6_AAAA_F0F0",
+    "paper_table": "V",
+    "rounds": 6,
+    "deltas_hex": "aaaaaaaaaaaaaaaa;f0f0f0f0f0f0f0f0",
+    "n_total": 1048576,
+    "repeats": 1,
+    "accuracy_mean": 0.49999841054381655,
+    "accuracy_sample_std": null,
+    "auc_mean": 0.5,
+    "auc_sample_std": null
+  },
+  {
+    "configuration": "r6_0101_FFFF",
+    "paper_table": "V",
+    "rounds": 6,
+    "deltas_hex": "0101010101010101;ffffffff00000000",
+    "n_total": 1048576,
+    "repeats": 1,
+    "accuracy_mean": 0.49999841054381655,
+    "accuracy_sample_std": null,
+    "auc_mean": 0.5,
+    "auc_sample_std": null
+  },
+  {
+    "configuration": "r6_weak4",
+    "paper_table": "VI",
+    "rounds": 6,
+    "deltas_hex": "0101010101010101;ffffffff00000000;aaaaaaaaaaaaaaaa;f0f0f0f0f0f0f0f0",
+    "n_total": 1048576,
+    "repeats": 1,
+    "accuracy_mean": 0.5000015894561834,
+    "accuracy_sample_std": null,
+    "auc_mean": 0.4999999981810129,
+    "auc_sample_std": null
+  },
+  {
+    "configuration": "r6_mixed4",
+    "paper_table": "VI",
+    "rounds": 6,
+    "deltas_hex": "0101010101010101;ffffffff00000000;0000000000000001;000000000000000a",
+    "n_total": 1048576,
+    "repeats": 1,
+    "accuracy_mean": 0.5379609820296084,
+    "accuracy_sample_std": null,
+    "auc_mean": 0.5509901336449761,
+    "auc_sample_std": null
+  }
+]

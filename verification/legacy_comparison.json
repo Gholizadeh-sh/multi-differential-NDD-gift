@@ -1,0 +1,17 @@
+{
+  "single-diff-generator.py": {
+    "sha256": "57c555ddbabccd162218dd3d778603f5d3ac283f2b6660b3f568f06d1a7af184",
+    "zero_pt_zero_key_28_rounds": "de5e812b34970b44",
+    "zero_pt_zero_key_1_round": "000000000000ffff",
+    "permutation_wrong_positions": 60
+  },
+  "multi-diff-generator.py": {
+    "sha256": "578cd5a1401017570f691f72649f8230df0b2791d4b6cd725750325462d3eae7",
+    "zero_pt_zero_key_28_rounds": "de5e812b34970b44",
+    "zero_pt_zero_key_1_round": "000000000000ffff",
+    "permutation_wrong_positions": 60
+  },
+  "corrected_zero_28": "f62bc3ef34f775ac",
+  "corrected_zero_1": "9111111111111119",
+  "preserved_key_hex": "0123456789abcdef0123456789abcdef"
+}

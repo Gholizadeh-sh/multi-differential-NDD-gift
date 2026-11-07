@@ -1,0 +1,51 @@
+[
+  {
+    "name": "python_tests",
+    "command": [
+      "-m",
+      "unittest",
+      "discover",
+      "-s",
+      "tests",
+      "-v"
+    ],
+    "returncode": 0,
+    "seconds": 1.7725131839999904
+  },
+  {
+    "name": "official_cpp",
+    "command": [
+      "verify_reference.py"
+    ],
+    "returncode": 0,
+    "seconds": 0.8628329160001158
+  },
+  {
+    "name": "pipeline_smoke",
+    "command": [
+      "run_experiments.py",
+      "--out",
+      "../analysis/delivery_smoke",
+      "--n",
+      "2048",
+      "--epochs",
+      "2",
+      "--seeds",
+      "0",
+      "--include-controls",
+      "--device",
+      "cpu",
+      "--threads",
+      "1"
+    ],
+    "returncode": 0,
+    "seconds": 5.2329802689998814
+  },
+  {
+    "name": "scope",
+    "full_size_paper_experiments_run_here": false,
+    "smoke_n_total": 2048,
+    "smoke_epochs": 2,
+    "smoke_configurations": 11
+  }
+]

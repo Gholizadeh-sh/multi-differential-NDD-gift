@@ -1,0 +1,21 @@
+Skipping complete run: ../analysis/delivery_smoke/r4_A_1/seed_0
+Skipping complete run: ../analysis/delivery_smoke/r6_1_A/seed_0
+Skipping complete run: ../analysis/delivery_smoke/r7_1_A/seed_0
+Skipping complete run: ../analysis/delivery_smoke/r8_1_A/seed_0
+Skipping complete run: ../analysis/delivery_smoke/r6_AAAA_F0F0/seed_0
+Skipping complete run: ../analysis/delivery_smoke/r6_0101_FFFF/seed_0
+Skipping complete run: ../analysis/delivery_smoke/r6_weak4/seed_0
+Skipping complete run: ../analysis/delivery_smoke/r6_mixed4/seed_0
+Skipping complete run: ../analysis/delivery_smoke/r6_single_1/seed_0
+Skipping complete run: ../analysis/delivery_smoke/r6_single_A/seed_0
+Skipping complete run: ../analysis/delivery_smoke/r28_1_A/seed_0
+Completed. See ../analysis/delivery_smoke/summary.csv and ../analysis/delivery_smoke/results_table.tex
+
+..........
+----------------------------------------------------------------------
+Ran 10 tests in 0.308s
+
+OK
+
+Changed-settings rejection: PASS
+Single-difference CLI shape (40,1,64): PASS

@@ -1,0 +1,16 @@
+
+test_big_endian_bit_convention (test_cipher.CipherTests.test_big_endian_bit_convention) ... ok
+test_official_full_vectors_and_every_round_stage (test_cipher.CipherTests.test_official_full_vectors_and_every_round_stage) ... ok
+test_scalar_vectorized_and_inverse_all_rounds (test_cipher.CipherTests.test_scalar_vectorized_and_inverse_all_rounds) ... ok
+test_validation (test_cipher.CipherTests.test_validation) ... ok
+test_random_pairs_round_zero (test_data.DatasetTests.test_random_pairs_round_zero) ... ok
+test_related_plaintext_orbits_blocked_across_split (test_data.DatasetTests.test_related_plaintext_orbits_blocked_across_split) ... ok
+test_save_load_integrity_and_legacy_rejection (test_data.DatasetTests.test_save_load_integrity_and_legacy_rejection) ... ok
+test_shape_balance_reproducible_across_chunks (test_data.DatasetTests.test_shape_balance_reproducible_across_chunks) ... ok
+test_shared_base_against_scalar_oracle (test_data.DatasetTests.test_shared_base_against_scalar_oracle) ... ok
+test_trivial_differences_require_explicit_control (test_data.DatasetTests.test_trivial_differences_require_explicit_control) ... ok
+
+----------------------------------------------------------------------
+Ran 10 tests in 0.389s
+
+OK

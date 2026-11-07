@@ -1,0 +1,69 @@
+{
+  "accuracy": 0.5170731707317073,
+  "roc_auc": 0.514160920512712,
+  "confusion_matrix_labels_0_1": [
+    [
+      130,
+      178
+    ],
+    [
+      119,
+      188
+    ]
+  ],
+  "accuracy_wilson95_conditional": [
+    0.4775961720574647,
+    0.5563382059656545
+  ],
+  "n_train": 1433,
+  "n_test": 615,
+  "train_seed": 0,
+  "split_seed": 42,
+  "epochs": 2,
+  "batch_size": 128,
+  "learning_rate": 0.001,
+  "hidden_units": [
+    128,
+    64
+  ],
+  "device": "cpu",
+  "parameter_count": 24898,
+  "elapsed_training_and_test_seconds": 0.04903932999877725,
+  "dataset": {
+    "actual_encryption_calls": 7168,
+    "allow_trivial": false,
+    "bit_order": "MSB-first",
+    "cipher": "GIFT-64-128",
+    "cipher_rounds": 8,
+    "data_seed": 0,
+    "deltas_hex": [
+      "0000000000000001",
+      "000000000000000a"
+    ],
+    "generator_sha256": "80a83ae633d2b9c64983b40daf86b4ad3a2e1bfa7b5da03f10a507404011fc73",
+    "implementation_sha256": "06db3a8dfc57950786ad2dabd0fb1a75f6ce142819086c93bc10593c4f62cc8a",
+    "key_hex": "0123456789abcdef0123456789abcdef",
+    "n_per_class": 1024,
+    "n_total": 2048,
+    "negative": "encrypted-pairs",
+    "note": "uniform negatives have the same distribution as independent encrypted random pairs for a fixed permutation; query accounting differs",
+    "positive_orbit_collisions": 0,
+    "protocol_query_count": 7168,
+    "round_start": 0,
+    "schema": "gift64-corrected-v1",
+    "shape": [
+      2048,
+      2,
+      64
+    ],
+    "dataset_sha256": "944aab2c405450652c07619c40298849a106ec4694b989fa8e0c99b3f845c8fb"
+  },
+  "software": {
+    "python": "3.11.2",
+    "numpy": "1.26.4",
+    "torch": "2.9.1+cu128",
+    "scikit_learn": "1.9.1",
+    "platform": "Linux-6.1.0-53-amd64-x86_64-with-glibc2.36"
+  },
+  "trainer_sha256": "d0c7e7e16f4cf6c43b76415b70e3aeb024932aa90b86770f25a042ceee34aaef"
+}

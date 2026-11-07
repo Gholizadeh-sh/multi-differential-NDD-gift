@@ -1,0 +1,38 @@
+[
+  {
+    "configuration": "r6_1_A",
+    "paper_table": "IV,V",
+    "rounds": 6,
+    "deltas_hex": "0000000000000001;000000000000000a",
+    "n_total": 2048,
+    "repeats": 2,
+    "accuracy_mean": 0.5203252032520325,
+    "accuracy_sample_std": 0.006898602743283318,
+    "auc_mean": 0.5153031008079867,
+    "auc_sample_std": 0.0031557919292346842
+  },
+  {
+    "configuration": "r6_weak4",
+    "paper_table": "VI",
+    "rounds": 6,
+    "deltas_hex": "0101010101010101;ffffffff00000000;aaaaaaaaaaaaaaaa;f0f0f0f0f0f0f0f0",
+    "n_total": 2048,
+    "repeats": 2,
+    "accuracy_mean": 0.4764227642276423,
+    "accuracy_sample_std": 0.006898602743283397,
+    "auc_mean": 0.4851728076483777,
+    "auc_sample_std": 0.005668460384739234
+  },
+  {
+    "configuration": "r6_mixed4",
+    "paper_table": "VI",
+    "rounds": 6,
+    "deltas_hex": "0101010101010101;ffffffff00000000;0000000000000001;000000000000000a",
+    "n_total": 2048,
+    "repeats": 2,
+    "accuracy_mean": 0.4943089430894309,
+    "accuracy_sample_std": 0.01609673973432795,
+    "auc_mean": 0.492105207496087,
+    "auc_sample_std": 0.005675938564666271
+  }
+]

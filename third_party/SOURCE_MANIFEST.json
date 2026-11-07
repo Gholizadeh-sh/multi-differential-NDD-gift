@@ -1,0 +1,12 @@
+{
+  "repository": "https://github.com/giftcipher/gift",
+  "revision": "f43c6b3e214e39c22dc0ae5efcc39297809d9b68",
+  "files": {
+    "GIFT64-128_cipher.cpp": "069a0ea08c4d10acfcdb7c18018eb9f6fd136c01e37f261bf893aab7e3277b2c",
+    "GIFT64_test_vector_1.txt": "226c9fa1b2a950bb5522b4982d619f5c94492be78758fdaa4f08c5770157b194",
+    "GIFT64_test_vector_2.txt": "b15ba13b5c1cfd02395da4a00827a3570291dc63e74abab22380b84c102ad363",
+    "GIFT64_test_vector_3.txt": "0189e97661953bf1c5fda44bc8eb5c1ebb327c35596a66ba1d1dd7c08f639eb0",
+    "LICENSE": "bd66c7174133936d1e18aea30a3ce47447cf9dc7494768eb0f8a9caeea9bd584",
+    "REVISION.txt": "02d9b83a68df22fea520168be8b2291d31f3b7b33ddff52815aec1a81c344128"
+  }
+}

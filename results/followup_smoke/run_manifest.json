@@ -1,0 +1,51 @@
+{
+  "n_total": 2048,
+  "seeds": [
+    1,
+    2
+  ],
+  "epochs": 2,
+  "batch_size": 128,
+  "key_hex": "0123456789abcdef0123456789abcdef",
+  "negative": "encrypted-pairs",
+  "split_seed": 42,
+  "configurations": [
+    [
+      "r6_1_A",
+      6,
+      [
+        1,
+        10
+      ],
+      "IV,V"
+    ],
+    [
+      "r6_weak4",
+      6,
+      [
+        72340172838076673,
+        18446744069414584320,
+        12297829382473034410,
+        17361641481138401520
+      ],
+      "VI"
+    ],
+    [
+      "r6_mixed4",
+      6,
+      [
+        72340172838076673,
+        18446744069414584320,
+        1,
+        10
+      ],
+      "VI"
+    ]
+  ],
+  "code_sha256": {
+    "gift64.py": "06db3a8dfc57950786ad2dabd0fb1a75f6ce142819086c93bc10593c4f62cc8a",
+    "data.py": "80a83ae633d2b9c64983b40daf86b4ad3a2e1bfa7b5da03f10a507404011fc73",
+    "train.py": "d0c7e7e16f4cf6c43b76415b70e3aeb024932aa90b86770f25a042ceee34aaef",
+    "run_experiments.py": "f624e3ae6abf7324f9a11c8d5ef5dd378ba019ca46a2de745341090a2cf2f856"
+  }
+}
